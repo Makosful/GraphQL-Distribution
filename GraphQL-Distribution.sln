@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonService", "PersonService\PersonService.csproj", "{19E6DB92-1F23-492D-B4E4-72CF9D5D7AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddressService", "AddressService\AddressService.csproj", "{0C6E8446-CB10-427C-B9B3-39CEC31921E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway.csproj", "{F20087D6-98D1-4DCC-969E-F5EE2D275A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E6DB92-1F23-492D-B4E4-72CF9D5D7AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E6DB92-1F23-492D-B4E4-72CF9D5D7AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E6DB92-1F23-492D-B4E4-72CF9D5D7AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E6DB92-1F23-492D-B4E4-72CF9D5D7AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6E8446-CB10-427C-B9B3-39CEC31921E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6E8446-CB10-427C-B9B3-39CEC31921E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6E8446-CB10-427C-B9B3-39CEC31921E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6E8446-CB10-427C-B9B3-39CEC31921E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20087D6-98D1-4DCC-969E-F5EE2D275A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20087D6-98D1-4DCC-969E-F5EE2D275A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20087D6-98D1-4DCC-969E-F5EE2D275A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20087D6-98D1-4DCC-969E-F5EE2D275A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
